@@ -43,3 +43,11 @@ A Linux-based filtering project utilizing the grep command to search and extract
 
 - Using the ls to search for a directory, then the | command to pipe that into the grep command to filter for all files that have Access in their name.
 
+![image](https://github.com/user-attachments/assets/d0d2f8a5-8670-45c3-8f72-f8722f4effc5)
+
+- Using the Ls command to display files in the Users Directory.
+
+
+
+
+

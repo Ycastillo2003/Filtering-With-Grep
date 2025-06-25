@@ -37,4 +37,4 @@ A Linux-based filtering project utilizing the grep command to search and extract
 
 ![image](https://github.com/user-attachments/assets/923cf99b-7309-4b2c-b24c-fac535d76600)
 
-- Using the ls to search for a directory, then the | command to pipe that into the grep command.
+- Using the ls to search for a directory, then the | command to pipe that into the grep command to filter for all files that have Q1 in their name.

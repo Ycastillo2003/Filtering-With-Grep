@@ -6,11 +6,15 @@ A Linux-based filtering project utilizing the grep command to search and extract
 
 # Environments and Technologies Used</h2>
 - Google Cloud Virtual Machines.
-- Various Linux commands (e.g., grep and the pipe | operator)".
+- Various Linux commands (e.g., grep and the pipe | operator).
 
 # Operating Systems Used </h2>
 - Linux.
 
 # Actions and observations
 
-- In this scenario, we need to obtain information contained in server log and user data files. we also need to find files with specific names.
+- In this scenario, we need to obtain information contained in the server log and user data files. We also need to find files with specific names.
+
+![image](https://github.com/user-attachments/assets/2a345f37-4306-4cad-9956-2f502e436b51)
+
+- Using the PWD command to check what directory we are currently in.

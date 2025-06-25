@@ -18,3 +18,7 @@ A Linux-based filtering project utilizing the grep command to search and extract
 ![image](https://github.com/user-attachments/assets/2a345f37-4306-4cad-9956-2f502e436b51)
 
 - Using the PWD command to check what directory we are currently in.
+
+![image](https://github.com/user-attachments/assets/df96bc20-1808-40fc-91c1-0da44d3d14b6)
+
+- Using the ls command to see a list of the directories in /home/analyst directory.

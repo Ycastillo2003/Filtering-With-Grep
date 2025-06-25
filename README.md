@@ -2,3 +2,12 @@
 
 
 # Linux: Filtering with Grep
+
+# Environments and Technologies Used</h2>
+- Google Cloud Virtual Machines.
+- Various Linux commands.
+
+# Operating Systems Used </h2>
+- Linux.
+
+# Actions and observations

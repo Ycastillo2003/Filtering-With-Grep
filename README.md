@@ -21,4 +21,8 @@ A Linux-based filtering project utilizing the grep command to search and extract
 
 ![image](https://github.com/user-attachments/assets/df96bc20-1808-40fc-91c1-0da44d3d14b6)
 
-- Using the ls command to see a list of the directories in /home/analyst directory.
+- Using the ls command to see a list of the directories in the /home/analyst directory.
+
+![image](https://github.com/user-attachments/assets/42ebd930-1787-4413-ad42-1330201108bb)
+
+-Using the CD to navigate to the logs directory.

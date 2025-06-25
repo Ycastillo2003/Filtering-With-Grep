@@ -26,3 +26,7 @@ A Linux-based filtering project utilizing the grep command to search and extract
 ![image](https://github.com/user-attachments/assets/42ebd930-1787-4413-ad42-1330201108bb)
 
 - Using the CD command to navigate to the logs directory.
+
+![image](https://github.com/user-attachments/assets/01a8b5c3-6424-4ce3-9e36-565c7f3b5d0b)
+
+- Using the ls command to list files inside the Logs directory.

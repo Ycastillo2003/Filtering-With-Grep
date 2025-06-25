@@ -6,7 +6,7 @@ A Linux-based filtering project utilizing the grep command to search and extract
 
 # Environments and Technologies Used</h2>
 - Google Cloud Virtual Machines.
-- Various Linux commands(grep and | )
+- Various Linux commands (e.g., grep and the pipe | operator)"
 
 # Operating Systems Used </h2>
 - Linux.

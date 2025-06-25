@@ -59,5 +59,9 @@ A Linux-based filtering project utilizing the grep command to search and extract
 
 - Using the grep command to filter for human resource users in the Q4_added_users.txt file.
 
+That's the end of this lab. Thanks for making it to the end. ![image](https://github.com/user-attachments/assets/867d727e-9206-4456-bcdc-f02c1f9d0a04)
+
+
+
 
 

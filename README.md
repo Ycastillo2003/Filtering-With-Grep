@@ -47,6 +47,9 @@ A Linux-based filtering project utilizing the grep command to search and extract
 
 - Using the Ls command to display files in the Users Directory.
 
+![image](https://github.com/user-attachments/assets/78aecbfd-3126-4e0d-a1cf-4bde9c0e8160)
+
+- Using the grep command to find jhill in Q2 deleted users file.
 
 
 

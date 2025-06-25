@@ -30,3 +30,7 @@ A Linux-based filtering project utilizing the grep command to search and extract
 ![image](https://github.com/user-attachments/assets/01a8b5c3-6424-4ce3-9e36-565c7f3b5d0b)
 
 - Using the ls command to list files inside the Logs directory.
+
+![image](https://github.com/user-attachments/assets/b761b0a4-4cee-475c-b1c5-bb3c6fda4d48)
+
+- Using the grep command to filter for the text string error inside the server_log.txt file.

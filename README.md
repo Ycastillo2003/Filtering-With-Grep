@@ -2,6 +2,7 @@
 
 
 # Linux: Filtering with Grep
+Designed and executed a Linux-based filtering project utilizing the grep command to search and extract specific patterns from large system log files and text-based datasets.
 
 # Environments and Technologies Used</h2>
 - Google Cloud Virtual Machines.

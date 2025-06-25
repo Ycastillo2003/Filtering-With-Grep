@@ -34,3 +34,7 @@ A Linux-based filtering project utilizing the grep command to search and extract
 ![image](https://github.com/user-attachments/assets/b761b0a4-4cee-475c-b1c5-bb3c6fda4d48)
 
 - Using the grep command to filter for the text string error inside the server_log.txt file.
+
+![image](https://github.com/user-attachments/assets/923cf99b-7309-4b2c-b24c-fac535d76600)
+
+- Using the ls to search for a directory, then the | command to pipe that into the grep command.

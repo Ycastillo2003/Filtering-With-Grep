@@ -12,3 +12,5 @@ A Linux-based filtering project utilizing the grep command to search and extract
 - Linux.
 
 # Actions and observations
+
+- In this scenario, we need to obtain information contained in server log and user data files. we also need to find files with specific names.

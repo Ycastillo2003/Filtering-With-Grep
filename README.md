@@ -51,6 +51,10 @@ A Linux-based filtering project utilizing the grep command to search and extract
 
 - Using the grep command to find jhill in Q2 deleted users file.
 
+![image](https://github.com/user-attachments/assets/1cb2fdde-f21d-480c-930b-5d8a6fd255eb)
+
+- Using ls to list the files in the user's folder again.
+
 
 
 

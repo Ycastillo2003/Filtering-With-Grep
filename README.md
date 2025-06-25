@@ -55,6 +55,9 @@ A Linux-based filtering project utilizing the grep command to search and extract
 
 - Using ls to list the files in the user's folder again.
 
+![image](https://github.com/user-attachments/assets/743ba398-67e5-4b33-b87b-ae3b98743386)
+
+- Using the grep command to filter for human resource users in the Q4_added_users.txt file.
 
 
 
